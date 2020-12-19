@@ -1,0 +1,3 @@
+[submodule "libMaths"]
+	path = libMaths
+	url = ssh://git@git.isartintra.com:2424/2020/MTL_LibMaths/GPM2_LRQWFLUT.git

@@ -1,0 +1,5 @@
+/build
+/vendor/glm/doc
+/asset
+restore.git
+/bin
