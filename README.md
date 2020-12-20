@@ -31,10 +31,6 @@ This is a class project made in 5 days only, the purpose of this one was to disc
 
 [Youtube Video](https://youtu.be/Wv7hUwRD_ew)
 
-## Build
-
-Link will be add
-
 ##Reference :
 
 - https://github.com/adriengivry/AnimationProgramming/tree/master/Sources
