@@ -1,4 +1,4 @@
-#Animation Engine
+# Animation Engine
 
 This is a class project made in 5 days only, the purpose of this one was to discover how to implement animation into a game engine
 
@@ -31,6 +31,6 @@ This is a class project made in 5 days only, the purpose of this one was to disc
 
 [Youtube Video](https://youtu.be/Wv7hUwRD_ew)
 
-##Reference :
+## Reference :
 
 - https://github.com/adriengivry/AnimationProgramming/tree/master/Sources
