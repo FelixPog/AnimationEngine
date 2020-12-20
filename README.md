@@ -2,6 +2,8 @@
 
 This is a class project made in 5 days only, the purpose of this one was to discover how to implement animation into a game engine
 
+![](https://github.com/FelixPog/AnimationEngine/blob/main/Screenshots/ProjectAnimation.PNG)
+
 ## Features I wanted to implement
 
 - Create an input manager to permit a dynamic swap beetween different functionnalities
@@ -24,10 +26,6 @@ This is a class project made in 5 days only, the purpose of this one was to disc
 
 - Due to the WhiteBoxEngine this project only work on Windows 32 bits. 
 - Use Visual Studio to open the project
-
-## Screenshots
-
-Will be add
 
 ## Video
 
