@@ -29,7 +29,7 @@ This is a class project made in 5 days only, the purpose of this one was to disc
 
 ## Video
 
-[Youtube Video](incoming)
+[Youtube Video](https://youtu.be/Wv7hUwRD_ew)
 
 ## Build
 
